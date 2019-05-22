@@ -43,10 +43,10 @@
         <boolProp name="AuthManager.clearEachIteration">true</boolProp>
       </AuthManager>
       <hashTree/>
-      <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config users_1k" enabled="true">
+      <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config users_100k" enabled="true">
         <stringProp name="delimiter">,</stringProp>
         <stringProp name="fileEncoding">UTF-8</stringProp>
-        <stringProp name="filename">/home/sergey/Projects/lab/load_testing/perflab_code/data/user_1k.csv</stringProp>
+        <stringProp name="filename">/home/sergey/Projects/lab/load_testing/perflab_code/data/users_100.csv</stringProp>
         <boolProp name="ignoreFirstLine">false</boolProp>
         <boolProp name="quotedData">true</boolProp>
         <boolProp name="recycle">true</boolProp>
